@@ -1,8 +1,6 @@
 # Price-Alert-Application
 
 
-Price Alert Application
-
 It Allows User to Create a price alert  that triggers a notification via email when the user’s target price is achieved.
 
 API endpoints:
